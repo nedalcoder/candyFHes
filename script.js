@@ -121,11 +121,11 @@ const productsData = [
     },
      {
         id: 16,
-        name: "  حلاوة الجبن مع الفستق الحلبي",
+        name: "  حلاوة الجبن بالفستق /käse-Halawa",
         price: 15 ,
         image: "img/jbnfstik.jpg",
         category: "candy3",
-        description:   "حلاوة الجبن مع الفستق الحلبي وماء الورد . سعر الكيلو 15 يورو , kase-Halawa -wenn Pistazien , kase und Rosenwasser zusammenkommen"
+        description:   "حلاوة الجبن مع الفستق الحلبي وماء الورد . سعر الكيلو 15 يورو , käse-Halawa -wenn Pistazien , käse und Rosenwasser zusammenkommen"
     },
       {
         id: 17,
